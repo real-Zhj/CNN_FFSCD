@@ -13,6 +13,9 @@ In this paper, a convolutional neural network is proposed for the first time, ca
 3.	Created a dataset featuring photoelastic images as inputs and the corresponding full-field stress components and directions as labels.
 4.	Enhanced the efficiency and capability of the photoelastic method, expanding its range of applications.
 
+# dataset
+*The dataset can be accessed on Mendeley Data via DOI: 10.17632/fkyv6r752g.1.*
+
 ## Requirements
 
 To run this project, you will need the following libraries:
